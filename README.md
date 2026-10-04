@@ -2,11 +2,11 @@
 
 Practical skills that help AI agents write, review, debug, and maintain code.
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/116d96b0-16fe-4a52-953c-8a0d97de8685" />
+
 Install once, and your agent follows structured engineering workflows—from understanding a codebase to verifying changes.
 
 Works with coding agents that support skills, including Claude Code, Cursor, GitHub Copilot, Windsurf, and OpenAI Codex.
-
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/116d96b0-16fe-4a52-953c-8a0d97de8685" />
 
 ## ⚙️ Quick Setup Guide (PowerShell)
 
