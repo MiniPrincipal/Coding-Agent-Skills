@@ -1,4 +1,4 @@
-# 👨‍💻 Coding Agent Skills
+# ⚡️ Coding Agent Skills
 
 Practical skills that help AI agents write, review, debug, and maintain code.
 
